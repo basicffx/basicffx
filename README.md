@@ -13,4 +13,4 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://frostmain.vercel.app/api/spotify)](https://open.spotify.com/user/699343110)
+[<img src="https://spotify-void0x.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/313o5d7jutdaxofhmptsoz2e4nzm)
